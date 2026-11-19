@@ -2,6 +2,7 @@
 
 | 폴더 | 내용 | 문서 |
 |---|---|---|
+| `livecodingSolution/` | Kotlin 개발자용 TypeScript/React Native 투표 연습 1~8, 개념 노트와 이어하기 안내 | [livecodingSolution/README.md](livecodingSolution/README.md) |
 | `BasicStudy/` | TypeScript 기초부터 React(useState, useEffect)까지 학습 모드 기록. 현재 1~6단계 완료, 7단계 시작 전 | [BasicStudy/README.md](BasicStudy/README.md) |
 
 ## 이어서 공부하기
