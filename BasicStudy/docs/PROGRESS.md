@@ -46,4 +46,4 @@
 
 이어서 진행할 때 Claude Code 에 줄 요청:
 
-> `docs/PROGRESS.md 와 docs/07-react-basics.md 를 읽고, 학습 모드로 7단계 연습 문제부터 이어서 진행해 줘. 문제를 내고 내 답을 채점한 뒤 다음 단계로 넘어가는 방식으로.`
+> `BasicStudy/docs/PROGRESS.md 와 BasicStudy/docs/07-react-basics.md 를 읽고, 학습 모드로 7단계 연습 문제부터 이어서 진행해 줘. 문제를 내고 내 답을 채점한 뒤 다음 단계로 넘어가는 방식으로.`
