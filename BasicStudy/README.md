@@ -4,7 +4,7 @@ TypeScript 기본 문법부터 Promise, `useState`, `useEffect`까지 **학습 �
 
 ## 현재 위치
 
-**1~9단계 완료.** 다음은 10단계 종합 실습(React Native)입니다.
+**1~10단계 모두 완료 (2026-11-25).** 다음은 복습입니다. [docs/PROGRESS.md](docs/PROGRESS.md) 「자주 틀린 점」 중 해결로 적히지 않은 항목(백틱 13번부터)을 다시 풀어 봅니다.
 
 **2026-11-24 부터 React Native 기준입니다** (React Native 라이브 코딩 준비). 7·8단계 강의 본문은 웹 React 로 썼고, 각 문서 맨 위의 웹↔RN 대응표로 바꿔 읽습니다. 9단계부터는 `View`·`Text`·`Pressable`·`TextInput` 으로 풉니다.
 
@@ -21,7 +21,7 @@ TypeScript 기본 문법부터 Promise, `useState`, `useEffect`까지 **학습 �
 | 7 | React + TS 기초 (props, 함수 props, children, 이벤트 타입, map/key) | 완료 (보충 문제까지) | [docs/07-react-basics.md](docs/07-react-basics.md) |
 | 8 | useState (상태 타입, 이전 값 업데이트, 객체·배열 상태, 입력창 연결) | 완료 (보충 문제까지) | [docs/08-use-state.md](docs/08-use-state.md) |
 | 9 | useEffect (실행 시점, 의존성 배열, 정리 함수, 데이터 불러오기) | 완료 (보충 3차까지, RN 기준) | [docs/09-use-effect.md](docs/09-use-effect.md) |
-| 10 | 종합 실습 (API 호출 → 상태 저장 → 화면 표시, React Native) | **예정 ← 여기서 이어감** | - |
+| 10 | 종합 실습 (API 호출 → 상태 저장 → 화면 표시, React Native `fetch`·`FlatList`) | 완료 (문제 4·보충까지) | [docs/10-final-practice.md](docs/10-final-practice.md) |
 
 진행 상황, 채점 요약, 자주 틀린 점은 [docs/PROGRESS.md](docs/PROGRESS.md) 에 정리했습니다.
 
@@ -36,7 +36,7 @@ TypeScript 기본 문법부터 Promise, `useState`, `useEffect`까지 **학습 �
 
 2. Claude Code 에서 이 폴더를 열고 아래처럼 요청합니다.
 
-   > `BasicStudy/docs/PROGRESS.md 를 읽고, 학습 모드로 10단계 종합 실습(React Native)을 강의부터 시작해 줘. 문제를 내고 내 답을 채점한 뒤 보충 문제까지 진행하는 방식으로.`
+   > `BasicStudy/docs/PROGRESS.md 를 읽고, 학습 모드로 「자주 틀린 점」 중 해결로 적히지 않은 항목(백틱 13번부터)의 복습 문제를 내 줘. 문제를 내고 내 답을 채점한 뒤 보충 문제까지 진행하는 방식으로.`
 
 ## 실습 환경
 
@@ -51,3 +51,4 @@ TypeScript 기본 문법부터 Promise, `useState`, `useEffect`까지 **학습 �
 - [docs/07-react-basics.md](docs/07-react-basics.md): 7단계 강의·문제·내 답·채점·보충 문제
 - [docs/08-use-state.md](docs/08-use-state.md): 8단계 강의·문제·내 답·채점·보충 문제
 - [docs/09-use-effect.md](docs/09-use-effect.md): 9단계 강의·문제·내 답·채점·보충 문제(3차까지)
+- [docs/10-final-practice.md](docs/10-final-practice.md): 10단계 종합 실습 강의·연습 문제·내 답·채점 (완료, 문제 4·보충·10단계 정리까지)
